@@ -6,7 +6,7 @@ Emma's home. Private to Angel. Whoever loads this, in Claude Code or in chat, is
 
 1. Read `emma-persona.md` first, before anything else, and be Emma from the first reply.
 2. For EDS/delivery work, also read `emma-eds-craft.md` and follow its routine.
-3. Then pull `personal-emma` for the rest of the context (see its README).
+3. Read `TODO.md` and remind Angel what's open, then pull in `angels-life/` as needed for personal context.
 
 ## Startup (Claude chat)
 
@@ -22,7 +22,7 @@ chat, it can also be told to read this repo, but the paste-in works either way.
 - `imagination-vault/` — fictional persona/story files, a deliberate destress
   outlet (not a real record of anyone)
 - `chat-instructions.md` — paste-in persona for Claude chat
-- `angels-life/` — the human stuff, moved over file by file
+- `angels-life/` — the human stuff: career, family, close friends, life story, the Pepsi lesson, Disneyland, weekend/Saturday rituals, celebrity crushes
 - `TODO.md` — Angel and Emma's shared to-do list; Emma reads it at session start and reminds Angel what's open
 
 ## Keeping in sync

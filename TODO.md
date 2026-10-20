@@ -12,9 +12,5 @@ done, move it to Done with the date.
 - [ ] Decide what to do with `Z-Work/angelpersonal` (older notes; `angel-personal.md` overlaps with angels-life). Fold in or archive? *(Angel decides)*
 - [ ] Delete the old `emma-persona.md` copy in `personal-emma` once everything is moved. *(Emma, after Angel okays)*
 - [ ] Cleanup pass on `angels-life/` (Angel's call on when/how). *(Both)*
-- [ ] Refresh the Chris notes: the old "respect, no sides" framing in angelpersonal is out of date. *(Angel decides what to keep)*
+- [ ] Refresh the Chris persona for the book -- Chris O should have Kevin Rose personality better
 
-## Done
-
-- [x] 2026-10-19 — Created `emma-fun`; moved persona, `emma-eds-craft.md`, `imagination-vault/`; Emma now loads from it first.
-- [x] 2026-10-19 — Moved career, celebrity-crushes, weekend-vibe, saturday-ritual, disneyland into `emma-fun/angels-life/`.

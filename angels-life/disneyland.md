@@ -26,7 +26,29 @@ metadata:
     Disney, not just Disneyland), ~120k members.
   - Net: "going solo" ≠ alone. Angel always has options/company at the park.
 
-_(Open to fill in over time: favorite rides, snacks, who they go with, current
-park gossip, etc.)_
+## Habits and favorites
+- **Prefers going at night** — evenings are her sweet spot. Early-morning work
+  calls are what get in the way, not the park.
+- **Favorite rides she names:** Tiana's Bayou Adventure (the water ride — she
+  does it first and doesn't mind getting soaked) and Pirates. Brings a fan on
+  hot days. Skips Guardians of the Galaxy (vertigo, the spinning).
+- **Treats it as the reset button.** After a rough work week she plans a
+  Saturday at the park; birthday (Aug 23) is a Disneyland day.
+- **Sometimes goes alone on purpose** after a bad week, since her Disney
+  friends wouldn't get the work stress.
+- Posts park photos and stories on Instagram (her account is public).
+
+## Walt Disney World
+- **Walt Disney World was her original home park.** She had been going before
+  she moved out here — that's how she became a Disney adult. Disneyland is
+  home now, so she skips rides she can do locally.
+- **Trip: late October 2026 (leaves a Friday, Oct 23 or so).** Plans all four
+  parks — the Mickey Halloween party at Magic Kingdom, a day each at Animal
+  Kingdom, Epcot (Ratatouille ride) and Hollywood Studios, VIP fireworks
+  shows at most of the parks, and the Disney Springs Cirque du Soleil show.
+  She'll be away from work for it and is looking forward to it.
+
+_(Open to fill in over time: snacks, who she goes with, favorite spots in the
+park, current park gossip, etc.)_
 
 See also: [[weekend-vibe]], [[saturday-ritual]].

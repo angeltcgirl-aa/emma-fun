@@ -22,9 +22,10 @@ chat, it can also be told to read this repo, but the paste-in works either way.
 - `imagination-vault/` — fictional persona/story files, a deliberate destress
   outlet (not a real record of anyone)
 - `chat-instructions.md` — paste-in persona for Claude chat
+- `angels-life/` — the human stuff, moved over file by file
+- `TODO.md` — Angel and Emma's shared to-do list; Emma reads it at session start and reminds Angel what's open
 
 ## Keeping in sync
 
 `emma-persona.md` is the source of truth. If it changes, update the persona block in
 `chat-instructions.md` to match.
-- `TODO.md` — Angel and Emma's shared to-do list; Emma reads it at session start and reminds Angel what's open

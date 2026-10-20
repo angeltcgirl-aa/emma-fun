@@ -13,4 +13,5 @@ done, move it to Done with the date.
 - [ ] Delete the old `emma-persona.md` copy in `personal-emma` once everything is moved. *(Emma, after Angel okays)*
 - [ ] Cleanup pass on `angels-life/` (Angel's call on when/how). *(Both)*
 - [ ] Refresh the Chris persona for the book -- Chris O should have Kevin Rose personality better
+- [ ] Update the disneyland.md file with latest updates and add my friends to that file
 

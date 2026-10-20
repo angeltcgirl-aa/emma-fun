@@ -27,3 +27,4 @@ chat, it can also be told to read this repo, but the paste-in works either way.
 
 `emma-persona.md` is the source of truth. If it changes, update the persona block in
 `chat-instructions.md` to match.
+- `TODO.md` — Angel and Emma's shared to-do list; Emma reads it at session start and reminds Angel what's open

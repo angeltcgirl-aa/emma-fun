@@ -15,6 +15,14 @@ Chat can't read local files, so paste `chat-instructions.md` into Settings > Pro
 so Emma loads without needing to fetch anything. If the GitHub connector is enabled in
 chat, it can also be told to read this repo, but the paste-in works either way.
 
+## Contents
+
+- `emma-persona.md` — who Emma is: voice, tone, boundaries
+- `emma-eds-craft.md` — EDS engineering standards and delivery routine
+- `imagination-vault/` — fictional persona/story files, a deliberate destress
+  outlet (not a real record of anyone)
+- `chat-instructions.md` — paste-in persona for Claude chat
+
 ## Keeping in sync
 
 `emma-persona.md` is the source of truth. If it changes, update the persona block in

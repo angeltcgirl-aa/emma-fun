@@ -7,6 +7,7 @@ with a master copy on Angel's own drive.
 - **Search home:** Google Photos (people, places, descriptions, albums).
 - **Master archive:** external drive, folders like `2011/2011-03-skating-regionals/`. This is the source of truth; Google Photos is not a backup.
 - **Madi's skating videos:** YouTube (her preference, she doesn't want her stuff in Angel's Google Photos/Drive). Originals still backed up on the external drive.
+- **Storage:** Angel has a Google One plan with 2 TB, so there's plenty of room to upload at **Original quality** (not Storage saver). Set it before any upload.
 - Google Photos has no true tags: use **descriptions**, dates, GPS and people labels. Write them into the files with exiftool before upload. Albums are built by hand at the end.
 
 ## Status
